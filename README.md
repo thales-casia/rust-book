@@ -9,6 +9,11 @@
 
 [hello world](./docs/helloworld.md)
 
+
 [安装rust](./docs/install.md)
 
+
 [cargo的使用](./docs/cargo.md)
+
+
+[变量和常量](./docs/variables.md)
