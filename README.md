@@ -17,3 +17,6 @@
 
 
 [变量和常量](./docs/variables.md)
+
+
+[通过GTK开发软件](./docs/gtk.md)
